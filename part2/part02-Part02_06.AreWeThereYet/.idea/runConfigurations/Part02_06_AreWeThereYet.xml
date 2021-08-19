@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_06.AreWeThereYet" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="AreWeThereYet" />
+    <module name="Part02_06.AreWeThereYet" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

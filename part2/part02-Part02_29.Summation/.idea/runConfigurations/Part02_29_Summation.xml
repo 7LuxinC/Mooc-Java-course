@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_29.Summation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Summation" />
+    <module name="Part02_29.Summation" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

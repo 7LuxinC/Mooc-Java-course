@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_30.Smallest" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Smallest" />
+    <module name="Part02_30.Smallest" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
