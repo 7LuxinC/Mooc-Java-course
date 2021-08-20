@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_02.SecondPlusThird" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SecondPlusThird" />
+    <module name="Part03_02.SecondPlusThird" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
